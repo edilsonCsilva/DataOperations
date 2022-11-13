@@ -1,0 +1,17 @@
+{
+    "name": "edi/data",
+    "description": "Operações com Datas",
+    "type": "n",
+    "autoload": {
+        "psr-4": {
+            "Edilson\\Data\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edilson claudino da silva"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
