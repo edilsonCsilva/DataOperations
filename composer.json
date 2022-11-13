@@ -12,6 +12,7 @@
             "name": "Edilson claudino da silva"
         }
     ],
+    "version": "1.0.0",
     "prefer-stable": true,
     "require": {
         "php": ">=5.4",
